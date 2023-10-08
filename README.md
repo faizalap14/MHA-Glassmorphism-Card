@@ -10,7 +10,7 @@ Users should be able to:
 ## Screenshot
 
 <img width="1920" alt="Screenshot" src="Screenshot-1.png">
-<img width="1920" alt="Screenshot" src="Screenshot-2.pngpng">
+<img width="1920" alt="Screenshot" src="Screenshot-2.png">
 
 ## My Process
 
